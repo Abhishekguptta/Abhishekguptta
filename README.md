@@ -64,10 +64,18 @@ A 19Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning
 
 
 ## 🏆 Github Status
+
+<div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=Abhishekguptta&show_icons=true&hide_border=true&theme=dark" width="45%" align="left" >
 
 
+</div>
 
+<br>
+
+
+
+<div align="center">
 
 
 
