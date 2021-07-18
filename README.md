@@ -69,18 +69,16 @@ A 19Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning
 <img  src="https://github-readme-stats.vercel.app/api?username=Abhishekguptta&show_icons=true&hide_border=true&theme=dark" width="45%" align="left" >
 
 
-</div>
 
+
+
+
+</div>
 <br>
 
-
-
-<div align="center">
-
-
-
-
 ### Show some ❤️ by starring ⭐ some of the repositories!
+
+
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abhishek-gupta-b90426204/)
