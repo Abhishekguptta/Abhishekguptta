@@ -80,7 +80,6 @@ A 19Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abhishek-gupta-b90426204/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishek.guptta/)
 [<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/abhishekguptta)
-[<img src="  
 
 </div>
 
