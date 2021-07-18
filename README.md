@@ -68,9 +68,7 @@ A 19Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning
 
 
 
-<br>
 
-<div align="center">
 
 
 
