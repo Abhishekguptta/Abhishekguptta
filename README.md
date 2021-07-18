@@ -80,6 +80,10 @@ A 19Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abhishek-gupta-b90426204/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abhishek.guptta/)
 [<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/abhishekguptta)
+[<img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png">](https://www.hackerrank.com/AB_03)
+[<img height="40" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png">](https://www.codechef.com/users/gupta_03) 
+[<img height="40" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png">](https://dev.to/abhishekguptta)
+[<img height="40" src="https://codeforces.org/s/19345/images/codeforces-telegram-square.png">](https://codeforces.com/profile/gupta_03)  [<img height="40" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png">](https://auth.geeksforgeeks.org/user/abhishekguptaa/profile)   [<img height="40" src="http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png">](https://www.interviewbit.com/profile/AB_)  [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png">](https://stackoverflow.com/users/16467778/abhishek-gupta?tab=profile)  [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">](https://leetcode.com/Abhishekguptta/)
 
 </div>
 
