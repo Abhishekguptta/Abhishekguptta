@@ -4,10 +4,10 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 
-A 22Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning the Front-End Web Developer .:bar_chart:. I like automating things, exploring scalability problems and improving efficiency and performance.
+A 22Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning the Front-End Web Developer .:bar_chart:.guI like automating things, exploring scalability problems and improving efficiency and performance.
 
 
-![age](https://img.shields.io/badge/age-19-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-GORAKHPUR-3c9)
 
