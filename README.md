@@ -2,13 +2,13 @@
 
 <h1 align="center"> नमस्ते (Namaste), I'm ABHISHEK GUPTA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">AI/ML Engineer from India – Shaping Tomorrow's Intelligence Today! ❤</h3>
 
-A 22Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning the Front-End Web Developer. I like automating things, exploring scalability problems and improving efficiency and performance.
+I’m a 22-year-old AI/ML engineer from India, on a mission to unlock the power of Generative AI and machine learning. From crafting cutting-edge AI systems to solving complex scalability puzzles, I’m all about pushing the limits of innovation. Efficiency, performance, and intelligent solutions are my game – let's build the future together! 🌟💡
 
 
 ![age](https://img.shields.io/badge/age-22-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![focus](https://img.shields.io/badge/focus-AI/ML/GenAI-brightgreen)
 ![living](https://img.shields.io/badge/living-GORAKHPUR-3c9)
 
 
@@ -20,12 +20,12 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm aspiring and learning
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Algorithms 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🌱 I’m currently learning **Python, NodeJs and ReactJs**
-- 👯 I’m looking to collaborate on **Python projects and Basic Web Dev stuff**
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/abhishek.guptta/) 
-- 😄 Pronouns: **he/him/his**
-- ⚡ Fun fact: **Looking like SERIOUS but deep down SOFT** ! 
+- 🔭 Studied AI/ML algorithms and Generative AI to build smarter, more efficient systems. Currently working on AI agents and Large Language Models (LLMs) to push the boundaries of intelligent automation.
+- 🌱 Proficient in Python, TensorFlow, PyTorch, and Natural Language Processing (NLP), applying these skills to develop advanced AI/ML solutions.
+- 👯 Looking to collaborate on AI-driven projects, ML models, and Generative AI solutions.
+- 📫 Connect with me: You can follow me on Instagram – let’s chat about AI!
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I might look serious, but deep down, I’m a total AI enthusiast! 🤖💡
 <br />
 
 
